@@ -1,2 +1,0 @@
-# giphygrid
-Created with CodeSandbox
